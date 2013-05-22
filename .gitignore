@@ -2,3 +2,8 @@ scala/.idea/
 scala/scala.iml
 scala/out/
 *.class
+.idea
+.settings
+bin
+target
+*.iml
